@@ -1,0 +1,6 @@
+[submodule "deeplab-pytorch"]
+	path = deeplab-pytorch
+	url = https://github.com/kdethoor/deeplab-pytorch.git
+[submodule "Detectron.pytorch"]
+	path = Detectron.pytorch
+	url = https://github.com/kdethoor/Detectron.pytorch.git
