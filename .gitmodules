@@ -4,3 +4,6 @@
 [submodule "Detectron.pytorch"]
 	path = Detectron.pytorch
 	url = https://github.com/kdethoor/Detectron.pytorch.git
+[submodule "panopticapi"]
+	path = panopticapi
+	url = https://github.com/cocodataset/panopticapi.git
