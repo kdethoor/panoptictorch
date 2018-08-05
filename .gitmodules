@@ -7,3 +7,6 @@
 [submodule "panopticapi"]
 	path = panopticapi
 	url = https://github.com/cocodataset/panopticapi.git
+[submodule "cocostuffapi"]
+	path = cocostuffapi
+	url = https://github.com/nightrome/cocostuffapi.git
