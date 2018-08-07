@@ -21,7 +21,7 @@ def load_mask_ann(img_id, coco):
             cat_id = ann['category_id']
             merged_mask = np.where(mask != 1, merged_mask, cat_id)
     except:
-        merged_mask = Null
+        merged_mask = None
     return merged_mask
 
 def create_instance_mask(img_id, coco):
