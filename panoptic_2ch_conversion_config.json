@@ -1,0 +1,14 @@
+{
+    "split": "val",
+    "year": "2017",
+    "ann_data_dir": "../coco/annotations",
+    "ann_data_name": "val2017.json",
+    "stuff_masks_dir": "deeplab-pytorch/data/out/val2017",
+    "res_data_dir": "Detectron.pytorch/data/out/val2017",
+    "res_data_name": "segmentations_coco_2017_val_results.json",
+    "merged_stuff_label_file": "panopticutils/merged_stuff_labels.json",
+    "panoptic_label_file": "panopticapi/panoptic_coco_categories.json",
+    "stuff_label_file": "deeplab-pytorch/data/datasets/cocostuff/labels_2.txt",
+    "out_dir": "data/out/val2017/p2ch",
+    "void_id": 0
+}
